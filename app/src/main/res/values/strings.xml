@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormHandling</string>
+    <string name="text">Don\'t Have an Account <b><i><u>Rigister Here.</u></i></b></string>
+    <string name="register">Have an Account <b><i><u>SignIn Here.</u></i></b></string>
+</resources>
